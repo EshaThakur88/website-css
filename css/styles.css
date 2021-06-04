@@ -7,7 +7,7 @@ body {
 .first {
 
   background-color: #a7bbc7;
-  padding-top: 100px;
+  padding-top: 150px;
   padding-bottom: 100px;
   position: relative;
 }
@@ -140,6 +140,3 @@ a:hover {
   margin-top: 28px;
 }
 
-.mountain {
-  margin-top: 30px;
-}
