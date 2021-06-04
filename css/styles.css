@@ -39,7 +39,7 @@ body {
 }
 
 h1 {
-  margin: 0;
+  margin-top: 20px;
   color: #0a1931;
   font-size: 4.20rem;
   font-family: 'Dancing Script', cursive;
@@ -141,5 +141,5 @@ a:hover {
 }
 
 .mountain {
-  margin-top: 40px;
+  margin-top: 30px;
 }
