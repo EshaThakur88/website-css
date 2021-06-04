@@ -35,7 +35,6 @@ body {
   width: 50%;
   margin: 50px auto;
   text-align: left;
-
 }
 
 h1 {
@@ -129,11 +128,13 @@ a:hover {
   left: 300px;
   bottom: 300px;
 }
+
 .bottom {
   background-color: #caf7e3;
   padding: 30px;
   font-size: 1.34rem;
 }
+
 .last {
   color: #11999E;
   font-size: 1rem;
